@@ -1,1 +1,0 @@
-# QuantumAnts-Software
